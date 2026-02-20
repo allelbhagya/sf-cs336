@@ -11,14 +11,12 @@
             "id": "dcbd6f12c67832a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "lecture_1/tokenization.md",
-                "mode": "source",
-                "source": false
+                "file": "attachments/Pasted image 20260220113700.png"
               },
-              "icon": "lucide-file",
-              "title": "tokenization"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260220113700"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture_1/tokenization.md",
+                "file": "attachments/Pasted image 20260220113700.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tokenization"
+              "title": "Backlinks for Pasted image 20260220113700"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture_1/tokenization.md",
+                "file": "attachments/Pasted image 20260220113700.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tokenization"
+              "title": "Outgoing links from Pasted image 20260220113700"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture_1/tokenization.md",
+                "file": "attachments/Pasted image 20260220113700.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tokenization"
+              "title": "Outline of Pasted image 20260220113700"
             }
           }
         ]
@@ -185,10 +183,11 @@
   },
   "active": "dcbd6f12c67832a9",
   "lastOpenFiles": [
-    "lecture_1/introduction.md",
-    "lecture_1/tokenization.md",
     "lecture_1/design decisions.md",
     "attachments/Pasted image 20260220104406.png",
+    "attachments/Pasted image 20260220113700.png",
+    "lecture_1/tokenization.md",
+    "lecture_1/introduction.md",
     "attachments",
     "lecture_1"
   ]
