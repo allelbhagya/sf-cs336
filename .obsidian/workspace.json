@@ -11,12 +11,14 @@
             "id": "dcbd6f12c67832a9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20260220113700.png"
+                "file": "lecture_1/tokenization.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260220113700"
+              "icon": "lucide-file",
+              "title": "tokenization"
             }
           }
         ]
@@ -183,11 +185,11 @@
   },
   "active": "dcbd6f12c67832a9",
   "lastOpenFiles": [
-    "lecture_1/design decisions.md",
-    "attachments/Pasted image 20260220104406.png",
-    "attachments/Pasted image 20260220113700.png",
-    "lecture_1/tokenization.md",
     "lecture_1/introduction.md",
+    "lecture_1/design decisions.md",
+    "attachments/Pasted image 20260220113700.png",
+    "attachments/Pasted image 20260220104406.png",
+    "lecture_1/tokenization.md",
     "attachments",
     "lecture_1"
   ]
