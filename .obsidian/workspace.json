@@ -11,12 +11,14 @@
             "id": "dcbd6f12c67832a9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20260220113700.png"
+                "file": "lecture_2/03_module_parameters.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260220113700"
+              "icon": "lucide-file",
+              "title": "03_module_parameters"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "10b6874e60d93d9e",
@@ -183,9 +186,13 @@
   },
   "active": "dcbd6f12c67832a9",
   "lastOpenFiles": [
+    "lecture_2/02_graident_basics.md",
+    "lecture_2/03_module_parameters.md",
+    "lecture_2/01_intro in pytorch.md",
+    "README.md",
+    "attachments/Pasted image 20260220113700.png",
     "lecture_1/design decisions.md",
     "attachments/Pasted image 20260220104406.png",
-    "attachments/Pasted image 20260220113700.png",
     "lecture_1/tokenization.md",
     "lecture_1/introduction.md",
     "attachments",
